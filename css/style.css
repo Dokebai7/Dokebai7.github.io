@@ -209,6 +209,7 @@ html,body{
 
 
  h3{
+   font-size: small;
   text-align: end;
   color: gray;
 }
@@ -257,7 +258,7 @@ html,body{
   box-shadow: 5px 5px 5px black;
 }
 
-.resposta.r6{
+.resposta .r6{
   flex: 50%;
   border: 1px solid red;
   padding: 10px 20px;
