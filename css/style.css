@@ -214,58 +214,14 @@ html,body{
   color: gray;
 }
 
-.resposta .r1{
+.resposta div{
+  
   flex: 50%;
   border: 1px solid red;
   padding: 10px 20px;
   border-radius: 5px;
   margin: 10px;
   box-shadow: 5px 5px 5px black;
-}
-
-.resposta .r2{
-  flex: 50%;
-  border: 1px solid red;
-  padding: 10px 20px;
-  border-radius: 5px;
-  margin: 10px;
-  box-shadow: 5px 5px 5px black;
-}
-
-.resposta .r3{
-  flex: 50%;
-  border: 1px solid red;
-  padding: 10px 20px;
-  border-radius: 5px;
-  margin: 10px;
-  box-shadow: 5px 5px 5px black;
-}
-.resposta .r4{
-  flex: 50%;
-  border: 1px solid red;
-  padding: 10px 20px;
-  border-radius: 5px;
-  margin: 10px;
-  box-shadow: 5px 5px 5px black;
-}
-
-.resposta .r5{
-  flex: 50%;
-  border: 1px solid red;
-  padding: 10px 20px;
-  border-radius: 5px;
-  margin: 10px;
-  box-shadow: 5px 5px 5px black;
-}
-
-.resposta .r6{
-  flex: 50%;
-  border: 1px solid red;
-  padding: 10px 20px;
-  border-radius: 5px;
-  margin: 10px;
-  box-shadow: 5px 5px 5px black;
-  font-size: 15px;
 }
  /*fim perguntas*/
 
